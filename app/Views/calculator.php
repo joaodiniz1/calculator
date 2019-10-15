@@ -53,7 +53,7 @@
       <!-- Display all db stored operations -->
       <div class="card mt-2 text-center">
       <div class="card-header">
-         <h1>Raw DB Results</h1>
+         <h3><span id="qRows">0</span> results</h3>
         </div>
         <div class="card-body">
           <div class="card=text" id="rows">
