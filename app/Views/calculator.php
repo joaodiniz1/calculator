@@ -15,7 +15,7 @@
       <div class="container mt-2">
           <!-- Calculator Panel -->
           <div class="d-flex flex-row justify-content-center mt-2 mb-4">
-            <input type="text" class="form-control panel p-3 shadow-none" id="panel" name="panel">
+            <input type="text" class="form-control panel p-3 shadow-none" id="panel" name="panel" disabled>
           </div>
           <!-- Numbers, Operations and Decimal Input Buttons -->
           <!-- The buttons id's are the javascript:e.keycode equivalent -->
