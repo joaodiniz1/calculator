@@ -76,10 +76,7 @@ function setPanel(val){
 
     /* Concatens and shows inputs array on calculator panel */
     $("#panel").val(inputs.join(''));
-
-    /* Keep cursor on last inserted number on panel */
-    $("#panel").focus();
-   
+  
 }
 
 /* Clears calculator panel */
