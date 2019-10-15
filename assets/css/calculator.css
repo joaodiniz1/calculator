@@ -1,0 +1,28 @@
+/* Calculator Css */
+.panel{
+    font-size:3em;
+    text-align:right;
+    width:7em;
+    background-color:white;
+    border-radius: 0.2em;
+    border:0;
+}
+
+.btn{
+    font-size:2em;
+    margin:2px;
+    min-width:2em;
+    text-align:center;
+}
+
+.equal{
+    width:4.8em;
+}
+
+.container{
+    background-color: #dddddd;
+    border: 0;
+    max-width:25em;
+    padding:1em;
+    border-radius: 1em;
+}
